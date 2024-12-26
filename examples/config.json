@@ -1,7 +1,7 @@
 {
     "SERVER_PORT": 3080,
     "CLIENT_ID": "ykCdJNLgu4dqOzOvRhFUbVhKpOVm5MsY",
-    "ISSUER_URL": "https://stg-id.singpass.gov.sg",
+    "ISSUER_URL": "https://demo-app-rehd.onrender.com",
     "REDIRECT_URI": "https://fambam.netlify.app/",
     "SCOPES": "openid uinfin name",
     "KEYS": {

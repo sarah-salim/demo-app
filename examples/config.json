@@ -3,7 +3,7 @@
     "CLIENT_ID": "ykCdJNLgu4dqOzOvRhFUbVhKpOVm5MsY",
     "ISSUER_URL": "https://demo-app-rehd.onrender.com",
     "REDIRECT_URI": "https://fambam.netlify.app/",
-    "SCOPES": "openid uinfin name",
+    "SCOPES": "openid name",
     "KEYS": {
         "PRIVATE_SIG_KEY": {
           "alg": "ES256",

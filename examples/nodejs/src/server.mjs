@@ -21,7 +21,7 @@ const app = new Koa();
 app.use(logger());
 
 // Serve the static frontend
-app.use(serve('../frontend'));
+app.use(serve('src/frontend'));
 
 // Manage sessions using an in-memory session store and signed, SameSite=Lax, HttpOnly cookies
 app.keys = [crypto.randomBytes(8).toString('hex')];

@@ -1,9 +1,9 @@
 {
     "SERVER_PORT": 3080,
-    "CLIENT_ID": "ykCdJNLgu4dqOzOvRhFUbVhKpOVm5MsY",
-    "ISSUER_URL": "https://demo-app-rehd.onrender.com",
-    "REDIRECT_URI": "https://fambam.netlify.app/",
-    "SCOPES": "openid name",
+    "CLIENT_ID": "RsrOy2iB0edR53TJSuD5ULad1pGmrVZL",
+    "ISSUER_URL": "https://stg-id.singpass.gov.sg",
+    "REDIRECT_URI": "https://fambam.netlify.app",
+    "SCOPES": "openid uinfin name",
     "KEYS": {
         "PRIVATE_SIG_KEY": {
           "alg": "ES256",
